@@ -3,4 +3,6 @@ node_modules
 build
 .next
 .history
-docs
+docs.next
+
+.next
