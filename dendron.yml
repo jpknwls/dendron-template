@@ -73,7 +73,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
     enableFrontmatterTags: true
-    enableHashesForFMTags: true
+    enableHashesForFMTags: false
 publishing:
     enableFMTitle: true
     enableNoteTitleForLink: true
